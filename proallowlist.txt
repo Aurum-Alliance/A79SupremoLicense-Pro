@@ -1,4 +1,4 @@
-# A79 Supremo Pro — paid allow-list
+# A79Supremo Pro — paid allow-list
 # Format: <MT5_account_number>   or   <MT5_account_number> <DD-MM-YYYY>
 # Lines starting with # are ignored.
 # 
