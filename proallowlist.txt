@@ -1,0 +1,7 @@
+# A79 Supremo Pro — paid allow-list
+# Format: <MT5_account_number>   or   <MT5_account_number> <DD-MM-YYYY>
+# Lines starting with # are ignored.
+# 
+# Examples (delete these when adding real customers):
+# 12345678
+# 87654321 2026-12-31
